@@ -1,3 +1,7 @@
+⚠️ This repository is a mirror of the now deprecated ruwnayml/stable-diffusion-v1-5, this repository or oganization are not affiliated in any way with RunwayML.
+
+Wayback Machine Source -> ZIP download
+
 ## Stable Diffusion
 
 *[Stable Diffusion](https://github.com/compvis/stable-diffusion) builds upon our previous work with the [CompVis group](https://ommer-lab.com/):*
