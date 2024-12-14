@@ -1,3 +1,7 @@
+:warning: This repository is a mirror of the now deprecated ruwnayml/stable-diffusion-v1-5, this repository or oganization are not affiliated in any way with RunwayML.
+
+[Wayback Machine Source](https://webcf.waybackmachine.org/web/20240827181302/https://github.com/runwayml/stable-diffusion) -> [ZIP download](https://codeload.github.com/runwayml/stable-diffusion/zip/refs/heads/main)
+
 # Stable Diffusion v1 Model Card
 This model card focuses on the model associated with the Stable Diffusion model, available [here](https://github.com/CompVis/stable-diffusion).
 
